@@ -1,0 +1,8 @@
+C:\Users\RD\AppData\Local\Temporary Projects\cs_httpwebrequest_https\bin\Debug\cs_httpwebrequest_https.exe
+C:\Users\RD\AppData\Local\Temporary Projects\cs_httpwebrequest_https\bin\Debug\cs_httpwebrequest_https.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\cs_httpwebrequest_https\obj\x86\Debug\cs_httpwebrequest_https.exe
+C:\Users\RD\AppData\Local\Temporary Projects\cs_httpwebrequest_https\obj\x86\Debug\cs_httpwebrequest_https.pdb
+C:\Users\RD\Desktop\cs_httpwebrequest_https\cs_httpwebrequest_https\obj\x86\Debug\cs_httpwebrequest_https.exe
+C:\Users\RD\Desktop\cs_httpwebrequest_https\cs_httpwebrequest_https\obj\x86\Debug\cs_httpwebrequest_https.pdb
+C:\Users\RD\Desktop\cs_httpwebrequest_https\cs_httpwebrequest_https\bin\Debug\cs_httpwebrequest_https.exe
+C:\Users\RD\Desktop\cs_httpwebrequest_https\cs_httpwebrequest_https\bin\Debug\cs_httpwebrequest_https.pdb
